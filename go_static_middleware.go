@@ -1,4 +1,4 @@
-package juz501
+package go_static_middleware
 
 import (
 	"net/http"
